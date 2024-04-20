@@ -1,0 +1,30 @@
+body{
+    background-color:#e4f9f5;
+    margin:30px 50px 0 50px;
+    padding: 10px;
+    min-height:95vh;
+    font-family: 'Neuton', serif;
+}
+header{
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    color: #557C55;
+}
+
+
+.middle-container{
+    display: flex;
+    flex-direction: row;
+    width: ;
+}
+
+.skills.projects{
+    display: flex;
+ 
+
+}
+
+
+   
+   
